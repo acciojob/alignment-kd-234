@@ -1,53 +1,35 @@
 /*  your css code here. If applicable */
-td{
-	width:20px;
-	height:20px;
-	border:1px solid black;
-}
-
-#table-1{
-	width:100%;
-	border: 1px solid;
-	text-align:center;
-/* 	border-collapse:collapse */
-	border-spacing:1px;
-	padding:1px;
-}
-
-
-
-#table-2{
-	width:100%;
-	border: 1px solid;
-	text-align:center;
-/* 	border-collapse:collapse; */
-	border-spacing:1px;
-	padding:1px;
-	
-	
-	
-}
-#table-3{
-	width:100%;
-	border:1px solid black;
-	text-align:center;	
-	
-}
-.green{
-	padding:1px;
-	width:1px;
-	background-color:green;
-
-}
-.blue{
-	padding:1px;
-	width:1px;
-	background-color:blue;
-}
+/*  your css code here. If applicable */
+/*  your css code here. If applicable */
 .middle{
-	margin-left:auto;
-	margin-right:auto;
-	
+    margin: auto;
+    width: 60%;
+}
+ 
+.center{
+    text-align: center;
+}
+ 
+.right{
+    text-align: right;
+}
+ 
+table{
+    border: 1px solid black;
+    border-spacing: 1px;
+}
+ 
+td{
+    padding: 1px;
+    border: 1px solid black;
+}
+ 
+.green{
+    background-color: green;
+}
+ 
+.blue{
+    background-color: blue;
 }
 
 
