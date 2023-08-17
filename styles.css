@@ -44,7 +44,11 @@ td{
 	width:1px;
 	background-color:blue;
 }
-
+.middle{
+	margin-left:auto;
+	margin-right:auto;
+	
+}
 
 
 
